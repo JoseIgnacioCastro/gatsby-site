@@ -1,0 +1,24 @@
+.title {
+  color: #7c11b9;
+  font-size: 2rem;
+}
+.container {
+  margin: auto;
+  width: 100%;
+  font-family: sans-serif;
+}
+.container .nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0rem 1rem;
+  background-color: whitesmoke;
+}
+.container .nav .linkItems {
+  display: flex;
+  align-items: center;
+}
+.linkItems .linkItem {
+  list-style: none;
+  margin-left: 1rem;
+}
